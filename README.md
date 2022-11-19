@@ -63,4 +63,4 @@ We will be skipping HTML and CSS. A good source for documenting on those two tec
 
 
 ## Backend ## 
-🚧 In prgress... 🚧
+🚧 In progress... 🚧
