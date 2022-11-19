@@ -24,10 +24,14 @@ We will be skipping HTML and CSS. A good source for documenting on those two tec
     After some theory, some practice is required. Thus, a mini project for practice is given.
 
     ```
-    Create the frontend of a blog page, or online shop page, or anything else similar that crosses your mind.
-    Your website should not be too simple, you will have to add Authentication on the website in the future, among other things.
-    A simple page of text, it is not enough. You will have to have buttons, multiple pages, 
-    animations done only in CSS, event listeners hand-written by you in JavaScript and so on.
+    Create the frontend of a blog page, or online shop page, 
+    or anything else similar that crosses your mind.
+    Your website should not be too simple, you will have 
+    to add Authentication on the website in the future, 
+    among other things. A simple page of text, it is not enough. 
+    You will have to have buttons, multiple pages, 
+    animations done only in CSS, event listeners 
+    hand-written by you in JavaScript and so on.
     Try to combine what new you've learned.
     ```
 
