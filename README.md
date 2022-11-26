@@ -234,19 +234,310 @@ We will be skipping HTML and CSS. A good source for documenting on those two tec
         - [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
         
 * Non-Relational Databases
-
+    - General Information
+        - [NoSQL Explained](https://www.mongodb.com/nosql-explained)
+        - [How do NoSQL databases work? Simply Explained!](https://youtu.be/0buKQHokLK8)
+        - [SQL vs NoSQL Explained](https://youtu.be/ruz-vK8IesE)
+    - Document databases
+        - MongoDB
+            - [MongoDB Documentation](https://www.mongodb.com/docs/)
+            - [Learning Path for MongoDB Developers](https://university.mongodb.com/learning_paths/developer)
+        - DynamoDB
+            - [DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/index.html)
+            - [Official Developers Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+    - Column Databases
+        - Cassandra
+            - [Official Documentation](https://cassandra.apache.org/_/index.html)
+            - [Apache Cassandra Database – Full Course for Beginners](https://youtu.be/J-cSy5MeMOA)
+    - Timeseries databases
+        - InfluxDB
+            - [Official Documentation](https://www.influxdata.com/)
+            - [Time series database](https://www.influxdata.com/time-series-database/)
+    - Realtime databases
+        - Firebase
+       
 * Learn about APIs
+    - APIs
+        - [What is an API?](https://aws.amazon.com/what-is/api/)
+        - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+    - Authentication
+        - General Information
+            - [User Authentication: Understanding the Basics & Top Tips](https://swoopnow.com/user-authentication/)
+            - [An overview about authentication methods](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a)
+            - [SSO - Single Sign On](https://roadmap.sh/guides/sso)
+            - [OAuth - Open Authorization](https://roadmap.sh/guides/oauth)
+            - [JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
+            - [Token Based Authentication](https://roadmap.sh/guides/token-authentication)
+            - [Session Based Authentication](https://roadmap.sh/guides/session-authentication)
+            - [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
+        - JWT Authentication
+            - [Introduction to JSON Web Tokens](https://jwt.io/introduction)
+            - [What is JWT?](https://www.akana.com/blog/what-is-jwt)
+            - [What Is JWT and Why Should You Use JWT](https://youtu.be/7Q17ubqLfaM)
+            - [What is JWT ? JSON Web Token Explained](https://youtu.be/926mknSW9Lo)
+        - Token based Authentication
+            - [What Is Token-Based Authentication?](https://www.okta.com/identity-101/what-is-token-based-authentication/)
+        - Basic Authentication
+            - [HTTP Basic Authentication](https://roadmap.sh/guides/http-basic-authentication)
+            - [Basic Authentication | Authentication Series](https://youtu.be/mwccHwUn7Gc)
+        - OAuth - Open Authorization
+            - [Okta - What the Heck is OAuth](https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth)
+            - [DigitalOcean - An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+            - [What is OAuth really all about](https://youtu.be/t4-416mg6iU)
+            - [OAuth 2.0: An Overview](https://youtu.be/CPbvxxslDTU)
+        - OpenID
+            - [Official Website](https://openid.net/)
+            - [What is OpenID](https://openid.net/connect/)
+            - [OAuth vs OpenID](https://www.securew2.com/blog/oauth-vs-openid-which-is-better)
+            - [An Illustrated Guide to OAuth and OpenID Connect](https://youtu.be/t18YB3xDfXI)
+        - Cookie-Based Authentication
+            - [How does cookie based authentication work?](https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work)
+    - Open API Specification and Swagger
+        - [Official Documentation](https://swagger.io/specification/)
+        - [Open API Live Editor](https://swagger.io/tools/swagger-editor/)
+        - [Official training guide](https://swagger.io/docs/specification/about/)
+        - [OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0](https://youtu.be/6kwmW_p_Tig)
+    - Hateoas
+        - [Oktane17: Designing Beautiful REST + JSON APIs (3:56 - 5:57)](https://youtu.be/MiOSzpfP1Ww)
+    - REST 
+        - [What is REST?](https://www.codecademy.com/article/what-is-rest)
+        - [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+        - [Roy Fielding's dissertation chapter, "Representational State Transfer (REST)"](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+        - [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
+    - JSON APIs
+        - [Json Api Specification](https://jsonapi.org/)
+        - [Official Documentation](https://jsonapi.org/implementations/)
+        - [JSON API: Explained in 4 minutes](https://www.youtube.com/watch?v=N-4prIh7t38)
+    - SOAP
+        - [w3school SOAP explanation](https://www.w3schools.com/xml/xml_soap.asp)
+    - gRPC
+        - [gRPC Website](https://grpc.io/)
+        - [gRPC Docs](https://grpc.io/docs/)
+        
 * Caching 
+    - CDN (Content Delivery Network)
+        - [What is a CDN? | How do CDNs work?](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
+        - [Wikipedia - Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
+        - [What is Cloud CDN?](https://www.youtube.com/watch?v=841kyd_mfH0)
+        - [What is a Content Delivery Network (CDN)?](https://www.youtube.com/watch?v=Bsq5cKkS33I)
+    - Client Side Caching
+        - [Everything you need to know about HTTP Caching](https://youtu.be/HiBDZgTNpXY)
+    - Server side Caching
+        - [Server-Side Caching](https://www.starwindsoftware.com/resource-library/server-side-caching/)
+        - [Server-side caching and Client-side caching](https://www.codingninjas.com/codestudio/library/server-side-caching-and-client-side-caching)
+        - Redis
+            - [Official Documentation](https://redis.io/)
+            - [Redis in 100 Seconds](https://youtu.be/G1rOthIU-uo)
+        - Memcached
+            - [Memcached, From Wikipedia](https://en.wikipedia.org/wiki/Memcached)
+            - [Memcached, From Official Github](https://github.com/memcached/memcached#readme)
+            - [Memcached Tutorial](https://www.tutorialspoint.com/memcached/index.htm)
+  
 * Web Security Knowledge 
+    - General Information
+        - [Why HTTPS matters](https://web.dev/why-https-matters/)
+        - [OWASP](https://en.wikipedia.org/wiki/OWASP)
+        - [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+        - [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
+        - [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+        - [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+    - Hashing Algorithms
+        - MD5
+            - [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
+            - [What is MD5?](https://www.techtarget.com/searchsecurity/definition/MD5)
+            - [3 Reasons why MD5 is not Secure](https://infosecscout.com/why-md5-is-not-safe/)
+        - SHA Family
+            - [SHA-1](https://en.wikipedia.org/wiki/SHA-1)
+            - [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+            - [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
+        - Bcrypt
+            - [Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+            - [Bcrypt & Password Security - An Introduction](https://youtu.be/O6cmuiTBZVs)
+        - Scrypt
+            - [scrypt](https://en.wikipedia.org/wiki/Scrypt)
+    - Others
+        - HTTPS
+            - [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+            - [Why HTTPS matters](https://web.dev/why-https-matters/)
+            - [Enabling HTTPS on Your Servers](https://web.dev/enabling-https-on-your-servers/)
+            - [HOW HTTPS WORKS](https://howhttps.works/)
+            - [SSL, TLS, HTTP, HTTPS Explained](https://youtu.be/hExRDVZHhig)
+            - [HTTPS — Stories from the field](https://youtu.be/GoXgl9r0Kjk)
+        - CORS
+            - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+            - [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+            - [Learn CORS In 6 Minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)
+        - Content Security Policy
+            - [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+            - [Content security policy](https://web.dev/csp/)
+        - SSL/TLS
+            - [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+            - [What is SSL? | SSL definition](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+        
 * Testing 
+    - General Information
+        - [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
+        - [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+    - Integration Testing
+        - [Integration Testing](https://www.guru99.com/integration-testing.html)
+        - [How to Integrate and Test Your Tech Stack](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)
+        - [What is Integration Testing?](https://www.youtube.com/watch?v=QYCaaNz8emY)
+    - Unit Testing
+        - [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
+        - [What is Unit Testing?](https://www.youtube.com/watch?v=3kzHmaeozDI)
+    - Functional Testing
+        - [What is Functional Testing?](https://www.guru99.com/functional-testing.html)
+        - [Functional Testing vs Non-Functional Testing](https://www.youtube.com/watch?v=j_79AXkG4PY)
 * CI/CD
+    - General Information
+        - [DevOps CI/CD Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=scEDHsr3APg)
+        - [Automate your Workflows with GitHub Actions](https://www.youtube.com/watch?v=nyKZTKQS_EQ)
+        - [What is CI/CD?](https://about.gitlab.com/topics/ci-cd/)
+        - [A Primer: Continuous Integration and Continuous Delivery (CI/CD)](https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/)
+        - [3 Ways to Use Automation in CI/CD Pipelines](https://thenewstack.io/3-ways-to-use-automation-in-ci-cd-pipelines/)
+        - [Articles about CI/CD](https://thenewstack.io/category/ci-cd/)
+
 * Design and Development Principles
+    - SOLID
+        - [Official Documentation](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
+        - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
+        - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+    - KISS
+        - [KISS](https://deviq.com/principles/keep-it-simple)
+        - [Keep It Simple, Stupid](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)
+    - YAGNI
+        - [Yagni](https://martinfowler.com/bliki/Yagni.html)
+        - [YAGNI](https://deviq.com/principles/yagni)
+    - DRY
+        - [Software Design Principles DRY and KISS](https://dzone.com/articles/software-design-principles-dry-and-kiss)
+        - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#s5)
+    - TDD
+        - [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
+        - [Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
+        - [Agile in Practice: Test Driven Development](https://www.youtube.com/watch?v=uGaNkTahrIw)
+    - DDD
+        - [Domain-Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
+    - GOF
+        - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+        - [Gang of Four Design Patterns](https://springframework.guru/gang-of-four-design-patterns/)
+        - [Design Patterns](https://refactoring.guru/design-patterns)
 * Architectural Patterns
+    - General Information
+        - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+    - Monolithic Apps
+        - [Pattern: Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
+        - [Monolithic Architecture - Advantages & Disadvantages](https://datamify.medium.com/monolithic-architecture-advantages-and-disadvantages-e71a603eec89)
+    - Microservices
+        - [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
+        - [What is Microservices?](https://smartbear.com/solutions/microservices/)
+        - [Microservices 101](https://thenewstack.io/microservices-101/)
+        - [Primer: Microservices Explained](https://thenewstack.io/primer-microservices-explained/)
+        - [Articles about Microservices](https://thenewstack.io/category/microservices/)
+    - SOA
+        - [Reference Architecture Foundation for Service Oriented Architecture](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html)
+    - CQRS and Event Sourcing
+        - [CQRS pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+    - Serverless
+        - [Serverless](https://www.ibm.com/cloud/learn/serverless)
+        - [AWS Services](https://aws.amazon.com/serverless/)
+        - [Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y)
+        
 * Search Engines
+    - Elasticsearch
+        - [Official Documentation](https://www.elastic.co/guide/index.html)
+    - Solr
+        - [Official Documentation](https://solr.apache.org/resources.html#documentation)
+
 * Message Brokers
+    - General Information 
+        - [Introduction to Message Brokers](https://www.youtube.com/watch?v=57Qr9tk6Uxc)
+    - RabbitMQ
+        - [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
+        - [RabbitMQ Tutorial - Message Queues and Distributed Systems](https://youtu.be/nFxjaVmFj5E)
+    - Kafka
+        - [Apache Kafka quickstart](https://kafka.apache.org/quickstart)
+        - [Apache Kafka Fundamentals](https://www.youtube.com/watch?v=B5j3uNBH8X4)
+
 * Containerization vs Virtualization
+    - General Information
+        - [Containerization vs. Virtualization: Everything you need to know](https://middleware.io/blog/containerization-vs-virtualization/)
+        - [Containerization or Virtualization - The Differences](https://www.youtube.com/watch?v=1WnDHitznGY)
+    - Docker 
+        - [Docker Documentation](https://docs.docker.com/)
+        - [What is Docker | AWS](https://aws.amazon.com/docker/)
+        - [Docker Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)
+        - [Docker simplified in 55 seconds](https://www.youtube.com/watch?v=vP_4DlOH1G4)
+    - LXC
+        - [LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
+        - [What is LXC?](https://linuxcontainers.org/lxc/introduction/)
+        - [Linux Container (LXC) Introduction](https://www.youtube.com/watch?v=_KnmRdK69qM)
+        - [Getting started with LXC containers](https://www.youtube.com/watch?v=CWmkSj_B-wo)
+
 * GraphQL
+    - General Information
+        - [Introduction to GraphQL](https://graphql.org/learn/)
+        - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+        - [GraphQL Tutorials](https://www.apollographql.com/tutorials/)
+        - [GraphQL Course for Beginners](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+    - Relay Modern
+        - [Official Website](https://relay.dev/)
+        - [Introduction to Relay modern](https://relay.dev/docs/)
+    - Apollo
+        - [Apollo Website](https://www.apollographql.com/)
+        - [Official Documentation](https://www.apollographql.com/docs/)
+        - [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL)
+        - [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
 * Graph Databases
+    - General Information
+        - [What is a Graph Database?](https://neo4j.com/developer/graph-database/)
+        - [Graph Databases VS Relational Databases](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
+    - Neo4j
+        - [Official Website](https://neo4j.com/)
+        - [Official Docs](https://neo4j.com/docs/)
+        - [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s)
 * WebSockets
+    - General Information
+        - [Introduction to WebSockets](https://www.tutorialspoint.com/websockets/index.htm)
+        - [A Beginner's Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
+        - [Socket.io Library Bidirectional and low-latency communication for every platform](https://socket.io/)
 * Web Servers
+    - General Information
+        - [What is a Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+        - [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw)
+    - Nginx
+        - [Official Website](https://nginx.org/)
+        - [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+    - Apache
+        - [Apache Server Website](https://httpd.apache.org/)
+        - [What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
+    - Caddy
+        - [Official Website](https://caddyserver.com/)
+        - [Getting started with Caddy the HTTPS Web Server from scratch](https://www.youtube.com/watch?v=t4naLFSlBpQ)
+    - MS IIS
+        - [Official Website](https://www.iis.net/)
+        - [Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
+
 * Building for Scale
+    - General Information
+        - [Scalable Architecture: A Definition and How-To Guide](https://www.sentinelone.com/blog/scalable-architecture/)
+        - [Scaling Distributed Systems - Software Architecture Introduction](https://www.youtube.com/watch?v=gxfERVP18-g)
+    - Mitigation Strategies
+        - [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+        - [The Throttling, Retry and Circuit Breaker Patterns](https://www.youtube.com/watch?v=0HoTGgb5oFg)
+    - Migration Strategies
+        - [What is Data Migration Strategy?](https://theecmconsultant.com/data-migration-strategy/)
+    - Horizontal/Vertical Scaling
+        - [Horizontal vs Vertical Scaling](https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/)
+        - [Scaling In Databases](https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/)
+        - [System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+        - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ)
+    - Instrumentation, Monitoring, and Telemetry
+        - [What is Instrumentation?](https://en.wikipedia.org/wiki/Instrumentation_(computer_programming))
+        - [What is Monitoring?](https://www.yottaa.com/performance-monitoring-backend-vs-front-end-solutions/)
+        - [What is Telemetry?](https://www.sumologic.com/insight/what-is-telemetry/)
+    - Observability
+        - [DataDog Docs](https://docs.datadoghq.com/)
+        - [AWS CloudWatch Docs](https://aws.amazon.com/cloudwatch/getting-started/)
+        - [Sentry Docs](https://docs.sentry.io/)
+        - [AWS re:Invent 2017: Improving Microservice and Serverless Observability with Monitor](https://www.youtube.com/watch?v=Wx0SHRb2xcI)
+        - [Observability and Instrumentation: What They Are and Why They Matter](https://newrelic.com/blog/best-practices/observability-instrumentation)
