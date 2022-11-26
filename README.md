@@ -149,6 +149,7 @@ We will be skipping HTML and CSS. A good source for documenting on those two tec
         - [Introduction to C#](https://learn.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha)
         - [C# Tutorial For Beginners](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
         - [Here should be the BOOK!!!!]()
+        - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 * Version Control System
     - Basic Usage of Git
         - [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
